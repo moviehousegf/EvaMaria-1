@@ -14,7 +14,7 @@ class script(object):
 - I am so shy to show you my source code. 
 - Owner - https://t.me/DhyanKN
 <b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
+- <a href=https://t.me/DhyanKN>Dhyan K Narayanan</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
